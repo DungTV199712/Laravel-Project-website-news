@@ -40,10 +40,9 @@
                 <div class="invalid-feedback">Image can not empty</div>
             </div>
 
-
-            <div>
-                <button type="submit" class="btn btn-primary">Create</button>
-            </div>
+                <div>
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </div>
         </form>
     </div>
 @endsection

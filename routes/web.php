@@ -23,12 +23,27 @@ Route::group(['prefix' => 'admin'],function () {
         Route::get('/','PostController@index')->name('admin.post.index');
         Route::get('/create','PostController@create')->name('admin.post.create');
         Route::post('/create','PostController@store')->name('admin.post.store');
-        Route::get('/edit/{id}','PostController@edit')->name('admin.post.edit');
-        Route::post('/edit/{id}','PostController@update')->name('admin.post.update');
-        Route::get('/destroy/{id}','PostController@destroy')->name('admin.post.destroy');
+        Route::get('/{id}/edit','PostController@edit')->name('admin.post.edit');
+        Route::post('/{id}/edit','PostController@update')->name('admin.post.update');
+        Route::get('/{id}/destroy','PostController@destroy')->name('admin.post.destroy');
         Route::get('/{id}/show','PostController@show')->name('admin.post.show');
         Route::get('/search', 'PostController@search')->name('admin.post.search');
-        Route::get('/list', 'PostController@list')->name('admin.post.list');
     });
 
+});
+Route::group(['prefix' => 'Host'], function () {
+    Route::get('/document', function () {
+       return view('/Host/document');
+    });
+    Route::group(['prefix' => 'product'], function () {
+        Route::get('/Hot', function () {
+            return view('/Host/product/Hot');
+        });
+        Route::get('/New', function () {
+            return view('/Host/product/New');
+        });
+        Route::get('/Sold', function () {
+            return view('/Host/product/Sold');
+        });
+    });
 });
