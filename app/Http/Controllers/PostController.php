@@ -10,7 +10,7 @@ class PostController extends Controller
 {
     public function index()
     {
-        $posts = Post::all();
+        $posts = Post::orderBy('created_at', 'desc')->paginate(3);
         return view('admin.post.list', compact('posts'));
     }
 
@@ -38,6 +38,7 @@ class PostController extends Controller
 
     }
 
+
     public function show($id)
     {
         $posts = Post::findOrFail($id);
@@ -46,7 +47,8 @@ class PostController extends Controller
 
     public function edit($id)
     {
-        return view('admin.post.edit');
+        $posts = Post::findOrFail($id);
+        return view('admin.post.edit', compact('posts'));
     }
 
     public function update(Request $request, $id)
@@ -84,7 +86,7 @@ class PostController extends Controller
         if (!$keyword) {
             return redirect()->route('admin.post.index');
         }
-        $posts = Post::where('title', 'LIKE', '%' . $keyword . '%')->paginate(3);
+        $posts = Post::where('title', 'LIKE', '%' . $keyword . '%');
         return view('admin.post.list', compact('posts'));
     }
 
