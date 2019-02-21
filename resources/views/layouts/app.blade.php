@@ -27,7 +27,7 @@
 </head>
 <body>
 <div id="app">
-    <nav class="navbar navbar-expand-md navbar-light navbar-collapse navbar-laravel">
+    <nav class="navbar navbar-expand-md navbar-light navbar-laravel">
         <div class="container">
             <!-- Just an image -->
             <nav class="navbar navbar-light">
@@ -78,7 +78,7 @@
                     </li>
                 </ul>
             </div>
-            <form class="form-inline my-2 my-lg-0" style="margin-left: 200px">
+            <form class="form-inline my-2 my-lg-0" style="margin-left: 100px">
                 <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
                 <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
             </form>

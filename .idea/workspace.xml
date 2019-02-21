@@ -2,225 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3208b581-22a8-43ae-9b81-200a112033f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/css/text.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Host/about.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Host/document.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Host/product/Hot.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Host/product/New.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Host/product/Sold.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Host/recommend.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/views/Host/service.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animals-Edible/AbstractAndInterfaceTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/AbstractAndInterfaceTest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Animal.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Animal.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Fruit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Fruit.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animals-Edible/Animals/Chicken.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/Animals/Chicken.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animals-Edible/Animals/Tiger.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/Animals/Tiger.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animals-Edible/Fruits/Apple.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/Fruits/Apple.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Animals-Edible/Fruits/Orange.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/Fruits/Orange.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSS/CV/CV.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS/CV/CV.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSS/CV/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS/CV/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSS/layouts/box.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS/layouts/box.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSS/layouts/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS/layouts/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSS/story/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS/story/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSS/story/story1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS/story/story1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSS/story/story2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS/story/story2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSS/story/story3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS/story/story3.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CSS/story/style1.css" beforeDir="false" afterPath="$PROJECT_DIR$/../CSS/story/style1.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calculator/calculator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Calculator/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Circle-cylinder/.idea/Circle-cylinder.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Circle-cylinder/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Circle-cylinder/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Circle-cylinder/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Circle-cylinder/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Circle-cylinder/Circle-cylinder.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Comparable/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Comparable/Circle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Comparable/ComparableCircle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Comparable/ComparableCircleMain.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Comparable/comparable.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Discount_Amount_Calculator/resources/views/Calculator.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Discount_Amount_Calculator/resources/views/display-discount.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First-project/.idea/First-project.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First-project/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First-project/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First-project/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First-project/.idea/phpRuntime.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First-project/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../First-project/Read-Number.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INTERFACE-Conparator/Circle.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INTERFACE-Conparator/CircleComparator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INTERFACE-Conparator/Comparator.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INTERFACE-Conparator/Shape.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../INTERFACE-Conparator/interfacecomparatorTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JQuery/effect(hieu-ung)/effect.html" beforeDir="false" afterPath="$PROJECT_DIR$/../JQuery/effect(hieu-ung)/effect.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Customer-test/resources/lang/en/language.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Customer-test/resources/lang/vi/language.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/customers/create.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/customers/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/customers/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/CustomerRepository.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/Eloquent/EloquentRepository.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/Impl/CustomerRepositoryImpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/Repository.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Services/CustomerService.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Services/Impl/CustomerServiceImpl.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/public/css/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/lang/en/language.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/lang/vi/language.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/books/create.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/books/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/books/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/students/create.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/students/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/students/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/tasks/create.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/tasks/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/tasks/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel-validation/resources/views/create.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel/test3/resources/views/books/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel/test3/resources/views/books/show.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel_Calculator/resources/views/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel_Demo/resources/views/home.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel_Demo/resources/views/test.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel_Dictionary/resources/views/Dictionary.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel_Dictionary/resources/views/find_error.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel_Dictionary/resources/views/mean.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel_manager-customer/app/Customer.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel_manager-customer/resources/views/customers/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel_task_manager/resources/views/modules/customer/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Laravel_timezone/resources/views/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/LinkListTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/Linklist.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedList/Node.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../List/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../List/ArrayList.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../List/ArrayTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Login/resources/views/login.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Login/resources/views/login_error.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Login/resources/views/welcome_admin.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Method-ArrayList/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Method-ArrayList/MyList.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Method-ArrayList/MyListTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Method-Linkedlist/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Method-Linkedlist/MyList.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Method-Linkedlist/MylinkedListTest.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Method-Linkedlist/Node.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MoveAblePoint/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MoveAblePoint/MoveablePoint.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/create.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/show.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyBlog/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point2D-3D/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Point2D-3D/Point2D-3D.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Product Manager/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Product Manager/controller/productController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Product Manager/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Product Manager/model/product.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Product Manager/view/Product.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Product Manager/view/Product_List.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QuadraticEquation(phuong trinh bac 2)/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../QuadraticEquation(phuong trinh bac 2)/QuadraticEquation.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rectangle/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Rectangle/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../St/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../St/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Typescript/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular-tour-of-heroes/src/app/Hero.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular-tour-of-heroes/src/app/mock-heroes.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular/.idea/watcherTasks.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../angular/.idea/watcherTasks.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular/modules-injection/src/app/image-gallery/token.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular/modules-injection/src/app/image-gallery/token.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular/service-route/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../angular/service-route/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../angular/service-route/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../angular/service-route/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array-2ch/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array-2ch/demo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array-2ch/index.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../array-2ch/matrix.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../authorization/resources/views/layouts/page_admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization/resources/views/layouts/page_admin.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../authorization/resources/views/layouts/page_guest.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization/resources/views/layouts/page_guest.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog/resources/views/blog/create.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog/resources/views/blog/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog/resources/views/blog/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../blog/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap/landing page/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap/landing page/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap/landing page/landing.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap/landing page/landing.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap/landing page/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap/landing page/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap/layout/shop.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap/layout/shop.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap/layout/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap/layout/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap/responsive/respone.html" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap/responsive/respone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../bootstrap/responsive/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/../bootstrap/responsive/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../create-layout/.idea/create-layout.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../create-layout/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../create-layout/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../create-layout/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../create-layout/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../create-layout/header.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../create-layout/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../demo/demo.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../example-blog/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../greeting/database/factories/employeeFatory.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../i18n/resources/lang/en/messages.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../i18n/resources/lang/vi/messages.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interface -Colorable/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interface -Colorable/Colorable.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interface- Resizeable/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../interface- Resizeable/Resizeable.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-api/app/Http/Middleware/Cors.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-api/app/Http/Middleware/Cors.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/EloquentRepository.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/post/PostEloquentRepository.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/post/PostRepositoryInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/RepositoryInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/service/post/postServiceInterface.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/service/post/postservice.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/resources/lang/en/language.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/resources/lang/vi/language.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/resources/views/create.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/resources/views/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-page-view-counter-using-session/resources/views/index.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-page-view-counter-using-session/resources/views/layouts/master.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-page-view-counter-using-session/resources/views/show.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-web-login-logout-using-session/resources/views/blog.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-web-login-logout-using-session/resources/views/layouts/master.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../laravel-web-login-logout-using-session/resources/views/login.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../php-cleancode-refactoring-variable-extraction/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-website-news.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Http/Controllers/PostController.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/post/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/post/create.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/post/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/post/edit.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/post/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/post/list.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/admin/post/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/admin/post/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/css/text.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/css/text.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/Host/product/Hot.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/Host/product/Hot.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/welcome.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/welcome.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test3/resources/views/books/create.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test3/resources/views/books/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test3/resources/views/books/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../test3/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testttt/resources/views/home.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testttt/resources/views/news/create.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testttt/resources/views/news/edit.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testttt/resources/views/news/list.blade.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../testttt/resources/views/news/show.blade.php" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -228,16 +14,25 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            <state relative-caret-position="360">
+              <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/post/edit.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -245,11 +40,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
-              <folding>
-                <element signature="n#style#0;n#form#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/views/admin/post/list.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -257,31 +58,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/routes/web.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="427">
-              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="42" />
+            <state relative-caret-position="150">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/Host/document.blade.php">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/Host/product/New.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="3" selection-start-column="3" selection-end-column="3" />
+            <state relative-caret-position="375">
+              <caret line="25" column="25" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="25" />
             </state>
           </provider>
         </entry>
@@ -289,11 +76,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/views/Host/product/Hot.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="18" column="86" selection-start-line="18" selection-start-column="86" selection-end-line="18" selection-end-column="86" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="300">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/text.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="13200">
+              <caret line="880" column="1" selection-start-line="880" selection-start-column="1" selection-end-line="880" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -307,15 +100,6 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1440">
-              <caret line="96" column="7" selection-start-line="96" selection-start-column="7" selection-end-line="96" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
@@ -324,6 +108,11 @@
         <option value="CSS File" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>site</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -338,20 +127,21 @@
         <option value="$PROJECT_DIR$/app/Post.php" />
         <option value="$PROJECT_DIR$/resources/views/welcome.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/text.css" />
-        <option value="$PROJECT_DIR$/public/css/text.css" />
         <option value="$PROJECT_DIR$/resources/views/admin/post/show.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/post/create.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/post/edit.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/PostController.php" />
         <option value="$PROJECT_DIR$/resources/views/admin/post/list.blade.php" />
-        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Host/document.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/routes/web.php" />
         <option value="$PROJECT_DIR$/resources/views/Host/product/New.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Host/product/Sold.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
+        <option value="$PROJECT_DIR$/public/css/text.css" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
         <option value="$PROJECT_DIR$/resources/views/Host/product/Hot.blade.php" />
+        <option value="$PROJECT_DIR$/resources/views/Host/product/ads.php" />
       </list>
     </option>
   </component>
@@ -448,9 +238,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="650" />
-    <option name="height" value="743" />
+    <option name="y" value="27" />
+    <option name="width" value="640" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -487,6 +277,12 @@
               <item name="project-website-news" type="b2602c69:ProjectViewProjectNode" />
               <item name="project-website-news" type="462c0819:PsiDirectoryNode" />
               <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-website-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-website-news" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="project-website-news" type="b2602c69:ProjectViewProjectNode" />
@@ -602,16 +398,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550031734205</updated>
-      <workItem from="1550031735959" duration="40373000" />
+      <workItem from="1550031735959" duration="54689000" />
+      <workItem from="1550723803348" duration="599000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40373000" />
+    <option name="totallyTimeSpent" value="55288000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info id="npm" order="1" side_tool="true" />
@@ -673,13 +469,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Image.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Image.php" />
     <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="392">
@@ -687,16 +477,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2019_02_13_093724_create_images_table.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="e#7#45#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2019_02_13_093724_create_images_table.php" />
     <entry file="file://$PROJECT_DIR$/database/migrations/2019_02_13_070155_create_posts_table.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -709,13 +490,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/public/css/app.css">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/css/text.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/admin/post/show.blade.php">
       <provider selected="true" editor-type-id="text-editor">
@@ -734,16 +508,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/post/edit.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="131" selection-start-line="5" selection-start-column="131" selection-end-line="5" selection-end-column="131" />
-          <folding>
-            <element signature="e#1285#1320#0#HTML" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -776,13 +540,6 @@
     <entry file="file://$PROJECT_DIR$/resources/views/Host/service.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/admin/post/list.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="50" column="53" selection-start-line="50" selection-start-column="53" selection-end-line="50" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1440">
@@ -793,31 +550,63 @@
     <entry file="file://$PROJECT_DIR$/resources/views/Host/document.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
+    <entry file="file://$PROJECT_DIR$/resources/views/Host/product/New.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        <state>
+          <caret column="3" selection-start-column="3" selection-end-column="3" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/image/images (5).jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/Host/product/ads.php" />
     <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        <state relative-caret-position="360">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/post/edit.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/admin/post/list.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/web.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="427">
-          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="42" />
+        <state relative-caret-position="150">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/Host/product/New.blade.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="3" selection-start-column="3" selection-end-column="3" />
+        <state relative-caret-position="375">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/text.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13200">
+          <caret line="880" column="1" selection-start-line="880" selection-start-column="1" selection-end-line="880" selection-end-column="1" />
         </state>
       </provider>
     </entry>
@@ -828,25 +617,29 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/layouts/app.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="68" selection-start-line="29" selection-start-column="68" selection-end-line="29" selection-end-column="68" />
-          <folding>
-            <element signature="n#style#0;n#form#0;n#div#0;n#nav#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/image/images (5).jpeg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/Host/product/Hot.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="18" column="86" selection-start-line="18" selection-start-column="86" selection-end-line="18" selection-end-column="86" />
+        <state relative-caret-position="300">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding>
+            <element signature="n#style#0;n#nav#0;n#!!top" expanded="true" />
+            <element signature="n#div#0;n#!!top" />
             <element signature="n#style#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#5;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h1#0;n#div#0;n#div#2;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#footer#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
