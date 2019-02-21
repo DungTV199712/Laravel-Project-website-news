@@ -1,4 +1,881 @@
-.break-word {
-    word-wrap: break-word;
-    word-break: keep-all;
+/*---------------------- STILE TESTO -------------------------*/
+
+h1, h2, h3, h4, h5, h6 {
+    /*color: #222;*/
+}
+
+.entry-header h2{
+    color: #222;
+    border-bottom: none;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+p{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+li{
+    font-size: 16px;
+    font-weight: 300;
+}
+
+#sp-main-body{
+    padding-bottom: 0px;
+}
+
+#sp-button{
+    background-color: rgba(102, 170, 206, 0.1);
+}
+/*------------------------------------------------------------*/
+/*-------------------------- FOOTER --------------------------*/
+
+/*footer per il responsive tablet in giu*/
+@media screen and (max-width: 980px ){
+    #sppb-addon-1505147243667 table{
+        margin: 0 auto;
+    }
+
+    #sppb-addon-1505147243667 .sppb-addon-title{
+        text-align: center;
+    }
+}
+
+#section-id-1533133721348{
+    padding: 0px 0px 0px 0px !important;
+}
+
+/*Modifica Testo Footer*/
+#sp-footer {
+    font-weight: bold;
+    padding: 0;
+}
+
+.contact-col2 span{
+    color: #fff !important;
+}
+
+/*------------------------------------------------------------*/
+/*------------------------- TIMELINE -------------------------*/
+.jux-tl-item h2 a {
+    color: #222;
+    font-weight: bold;
+}
+
+.jux-tl-item .jux-tl-desc {
+    color: #fff;
+    font-weight: bold;
+}
+
+.sp-page-builder .page-content #history-wrapper .sppb-section-title .sppb-title-subheading {
+    font-size: 21px;
+    font-weight: bold;
+}
+
+.jux-tl-info {
+    background: #686d74 none repeat scroll 0 0;
+    border-radius: 22px;
+    padding: 17px 40px;
+    position: relative;
+}
+
+.jux-tl-item.right .arrow {
+    border-right-color: #686d74;
+}
+
+.jux-tl-item.left .arrow {
+    border-right-color: #686d74;
+}
+
+/*------------------------------------------------------------*/
+/*------------------------- ARTICOLO -------------------------*/
+
+/*articoli per il responsive tablet in giu*/
+@media screen and (max-width: 768px ){
+    .view-article #sp-main-body{
+        padding: 100px 0px !important;
+    }
+}
+
+/*Modifica colore titolo articolo*/
+.page-header h1 {
+    color: #222;
+    border-bottom: 1px solid #60aace;
+    padding-bottom: 5px;
+}
+
+.page-header {
+    border-bottom: none;
+    margin: -30px 0px 0px 0px;
+    padding-bottom: 0px;
+}
+
+.return-nms a{
+    font-weight: 600;
+    border: 1px solid #66aace;
+    padding: 6px;
+}
+
+.return-nms a:hover {
+    color: #ffffff !important;
+    background: #66aace;
+}
+
+/*------------------------------------------------------------*/
+/*------------ BLOCCO FINE PAGINA SYSTEM FEATURES ------------*/
+
+.titolo_modulo_client{
+    color:#60aace;
+    font-size:18px;
+    font-weight: bold;
+}
+
+/*------------------------------------------------------------*/
+
+
+.entry-header h2 {
+    color: #000;
+    border-bottom: none;
+
+}
+
+/* bordi nel modulo con CSS mod_border*/
+.mod_border{
+    border-top-style: solid;
+    border-top-color: #66aace;
+    border-top-width: 1px;
+
+    border-bottom-style: solid;
+    border-bottom-color: #66aace;
+    border-bottom-width: 1px;
+}
+
+.content-category h2{
+    color: #60aace;
+    font-size: 31px;
+    font-weight: 400;
+}
+
+
+
+/*--------------------------- SLIDESHOW -----------------------*/
+
+/*Modifica slideshow parte responsive tablet in giu*/
+@media screen and (max-width: 768px ){
+    .sppb-slider-wrapper .sppb-slider-fullwidth-wrapper .customNavigation a {
+        top: 55%;
+    }
+
+    .sppb-slidehsow-sub-title{
+        font-weight: 300;
+        font-size: 30px !important;
+    }
+
+    .sppb-slideshow-fullwidth-item-text{
+        top: 60% !important;
+    }
+
+    .customNavigation{
+        display: none;
+    }
+}
+
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .customNavigation a.sppbSlidePrev i{
+    border: 0px ;
+    font-size: 100px;
+}
+
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .customNavigation a.sppbSlideNext i{
+    border: 0px ;
+    font-size: 100px;
+}
+
+/*Colori testi*/
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .sppb-slideshow-fullwidth-item-bg .container .sppb-slideshow-fullwidth-item-text a, .sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .sppb-slideshow-fullwidth-item-bg .container .sppb-slideshow-fullwidth-item-text h1, .sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .sppb-slideshow-fullwidth-item-bg .container .sppb-slideshow-fullwidth-item-text h1 small{
+    color: #222;
+}
+
+/*bottone*/
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .sppb-slideshow-fullwidth-item-bg .container .sppb-slideshow-fullwidth-item-text a.sppb-slideshow-fullwidth-read-more span{
+    color: #222;
+    font-weight: bold;
+}
+
+/*sfondo fascia bianca*/
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .owl-stage .owl-item.active .sppb-slideshow-fullwidth-item-text{
+    width: 101%;
+    background: white;
+    opacity: 0.9;
+    border-style: solid;
+    border-color: #66aace;
+}
+
+/*titolo & sottotitolo*/
+.sppb-slider-wrapper.sppb-slider-fullwidth-wrapper .sppb-slideshow-fullwidth-item-bg .container .sppb-slideshow-fullwidth-item-text h1{
+    text-transform: inherit;
+}
+
+.sppb-slidehsow-sub-title{
+    font-weight: 300;
+    font-size: 50px;
+}
+
+/*-------------------------------------------------------------*/
+/*-------------------------- HEADER ---------------------------*/
+
+/*menu fissato in alto*/
+#sp-header{
+    background: #fff;
+    color: #000;
+    transition: all 1000ms ease 0s;
+    border-bottom: 1px solid #66aace;
+}
+
+#sp-header.has-slideshow{
+    left: 0;
+    position:fixed;
+    right: 0;
+    top:0;
+    width: 100%;
+    transition: all 1000ms ease 0s;
+}
+
+
+/*-- MENU INTERO -- */
+.menu-fixed-out{
+    height: 60px;
+    transition: all 1000ms ease 0s;
+}
+
+.sp-megamenu-parent > li > a{
+    color: #222;
+    line-height: 75px;
+    letter-spacing: 1px;
+    transition: all 1000ms ease 0s;
+}
+
+.sp-megamenu-parent > li:hover > a{
+    background: none;
+    border-bottom: 1px solid #222;
+    transition: all 1000ms ease 0s;
+}
+
+.sp-megamenu-parent > li.active > a{
+    background: none;
+}
+
+.sp-megamenu-parent > li.current-item > a{
+    background: none;
+    border-bottom: 1px solid #60aace;
+    transition: all 1000ms ease 0s;
+}
+
+#sp-header .logo{
+    transition: all 1000ms ease 0s;
+}
+
+/*-- MENU FIXED -- */
+.menu-fixed{
+    height: 80px;
+    transition: all 1000ms ease 0s;
+}
+
+#sp-header.menu-fixed .sp-megamenu-parent > li > a{
+    line-height: 50px;
+    transition: all 1000ms ease 0s;
+}
+
+#sp-header.menu-fixed .logo{
+    width: 200px;
+    transition: all 1000ms ease 0s;
+}
+
+/*-------------------------------------------------------------*/
+/*----------------------- MENU RESPONSIVE ---------------------*/
+
+#offcanvas-toggler > i {
+    color: #000;
+}
+
+@media screen and (min-width: 1024px ) {
+    #offcanvas-toggler > i {
+        display:none  !important;
+    }
+}
+
+@media screen and (max-width: 1024px ) {
+    .sp-megamenu-parent{
+        display:none  !important;
+    }
+}
+
+@media screen and (max-width: 780px ) {
+    h3, .h3 {
+        font-size: 17px;
+    }
+}
+
+/*------------------------------------------------------------*/
+/*--------------- BLOCCO PULSANTI NETPOD EVO -----------------*/
+
+@media screen and (min-width: 980px ){
+
+    #section-id-1505166276136{
+        padding: 20px 0 20px 0 !important;
+    }
+
+    .netpodevo_square_block #btn-1505166276140,
+    .netpodevo_square_block #btn-1505166276141,
+    .netpodevo_square_block #btn-1505166276142,
+    .netpodevo_square_block #btn-1505166276143,
+    .netpodevo_square_block #btn-1505166276144,
+    .netpodevo_square_block #btn-1505166276145 {
+        height: 215px;
+        width: 215px;
+        font-size: 17px;
+    }
+
+}
+
+@media screen and (max-width: 768px ){
+    #section-id-1505166276136{
+        padding: 100px 0 50px 0 !important;
+        margin: 0 0 -30px 0 !important;
+    }
+
+    .netpodevo_square_block #btn-1505166276140,
+    .netpodevo_square_block #btn-1505166276141,
+    .netpodevo_square_block #btn-1505166276142,
+    .netpodevo_square_block #btn-1505166276143,
+    .netpodevo_square_block #btn-1505166276144,
+    .netpodevo_square_block #btn-1505166276145{
+        height: 215px;
+    }
+
+    .netpodevo_square_block .fa-dashboard::before,
+    .netpodevo_square_block .fa-user::before,
+    .netpodevo_square_block .fa-cogs::before,
+    .netpodevo_square_block .fa-puzzle-piece::before,
+    .netpodevo_square_block .fa-pie-chart::before,
+    .netpodevo_square_block .fa-archive::before {
+        font-size:70px;
+        padding-bottom:10px;
+    }
+
+}
+
+.netpodevo_square_block #btn-1505166276140,
+.netpodevo_square_block #btn-1505166276141,
+.netpodevo_square_block #btn-1505166276142,
+.netpodevo_square_block #btn-1505166276143,
+.netpodevo_square_block #btn-1505166276144,
+.netpodevo_square_block #btn-1505166276145 {
+    border: 2px solid #66aace;
+}
+
+.netpodevo_square_block .fa-dashboard::before,
+.netpodevo_square_block .fa-user::before,
+.netpodevo_square_block .fa-cogs::before,
+.netpodevo_square_block .fa-puzzle-piece::before,
+.netpodevo_square_block .fa-pie-chart::before,
+.netpodevo_square_block .fa-archive::before {
+    font-size:100px;
+    padding-bottom:10px;
+}
+
+.itemid-515 #btn-1505166276140,
+.itemid-585 #btn-1505166276140,
+.itemid-550 #btn-1505166276141,
+.itemid-555 #btn-1505166276142,
+.itemid-554 #btn-1505166276143,
+.itemid-659 #btn-1505166276144,
+.itemid-560 #btn-1505166276145{
+    display: none;
+}
+
+
+/*------------------------------------------------------------*/
+/*--------------- BLOCCO PULSANTI PRODUCTS -----------------*/
+
+@media screen and (min-width: 980px ){
+
+    .products_square_block {
+        padding: 20px 0 20px 0 !important;
+    }
+
+    .products_square_block #btn-1505166276140,
+    .products_square_block #btn-1505166276141,
+    .products_square_block #btn-1505166276142,
+    .products_square_block #btn-1505166276143,
+    .products_square_block #btn-1505166276144,
+    .products_square_block #btn-1505166276145,
+    .products_square_block #btn-1505166276146,
+    .products_square_block #btn-1505166276147{
+        height: 150px;
+        width: 152px;
+        font-size: 12px;
+    }
+
+}
+
+@media screen and (max-width: 768px ){
+    .products_square_block {
+        padding: 100px 0 50px 0 !important;
+        margin: 0 0 -30px 0 !important;
+    }
+
+    .products_square_block #btn-1505166276140,
+    .products_square_block #btn-1505166276141,
+    .products_square_block #btn-1505166276142,
+    .products_square_block #btn-1505166276143,
+    .products_square_block #btn-1505166276144,
+    .products_square_block #btn-1505166276145,
+    .products_square_block #btn-1505166276146{
+        height: 215px;
+    }
+
+    .products_square_block .fa-terminal::before,
+    .products_square_block .fa-database::before,
+    .products_square_block .fa-lightbulb-o::before,
+    .products_square_block .fa-video-camera::before,
+    .products_square_block .fa-area-chart::before,
+    .products_square_block .fa-cubes::before,
+    .products_square_block .fa-connectdevelop::before,
+    .products_square_block .fa-sliders::before {
+        font-size:70px;
+        padding-bottom:10px;
+    }
+
+}
+
+.products_square_block #btn-1505166276140,
+.products_square_block #btn-1505166276141,
+.products_square_block #btn-1505166276142,
+.products_square_block #btn-1505166276143,
+.products_square_block #btn-1505166276144,
+.products_square_block #btn-1505166276145,
+.products_square_block #btn-1505166276146,
+.products_square_block #btn-1505166276147{
+    border: 2px solid #66aace;
+}
+
+.products_square_block .fa-terminal::before,
+.products_square_block .fa-database::before,
+.products_square_block .fa-lightbulb-o::before,
+.products_square_block .fa-video-camera::before,
+.products_square_block .fa-area-chart::before,
+.products_square_block .fa-cubes::before,
+.products_square_block .fa-connectdevelop::before,
+.products_square_block .fa-sliders::before {
+    font-size:60px;
+    padding-bottom:10px;
+}
+
+.itemid-588 #btn-1505166276140,
+.itemid-665 #btn-1505166276141,
+.itemid-587 #btn-1505166276142,
+.itemid-663 #btn-1505166276143,
+.itemid-593 #btn-1505166276144,
+.itemid-664 #btn-1505166276145,
+.itemid-599 #btn-1505166276146,
+.itemid-612 #btn-1505166276147{
+    display: none;
+}
+
+
+/*------------------------------------------------------------*/
+/*--------------- BLOCCO PULSANTI COMPANY -----------------*/
+
+@media screen and (min-width: 980px ){
+
+    .company_square_block {
+        padding: 20px 0 20px 0 !important;
+    }
+
+    .company_square_block #btn-1505166276140,
+    .company_square_block #btn-1505166276141{
+        height: 160px;
+        width: 165px;
+        font-size: 14px;
+    }
+
+}
+
+@media screen and (max-width: 768px ){
+    .company_square_block {
+        padding: 100px 0 50px 0 !important;
+        margin: 0 0 -30px 0 !important;
+    }
+
+    .company_square_block #btn-1505166276140,
+    .company_square_block #btn-1505166276141{
+        height: 215px;
+    }
+
+    .company_square_block .fa-image::before,
+    .company_square_block .fa-graduation-cap::before{
+        font-size:70px;
+        padding-bottom:10px;
+    }
+
+}
+
+.company_square_block #btn-1505166276140,
+.company_square_block #btn-1505166276141{
+    border: 2px solid #66aace;
+}
+
+.company_square_block .fa-image::before,
+.company_square_block .fa-graduation-cap::before{
+    font-size:60px;
+    padding-bottom:10px;
+}
+
+/*------------------------------------------------------------*/
+/*--------------- BLOCCO PULSANTI EVENTS -----------------*/
+
+@media screen and (min-width: 980px ){
+
+    .events_square_block {
+        padding: 20px 0 20px 0 !important;
+    }
+
+    .events_square_block #btn-1505166276140,
+    .events_square_block #btn-1505166276141{
+        height: 160px;
+        width: 165px;
+        font-size: 14px;
+    }
+
+}
+
+@media screen and (max-width: 768px ){
+    .products_square_block {
+        padding: 100px 0 50px 0 !important;
+        margin: 0 0 -30px 0 !important;
+    }
+
+    .events_square_block #btn-1505166276140,
+    .events_square_block #btn-1505166276141{
+        height: 215px;
+    }
+
+    .events_square_block .fa-image::before,
+    .events_square_block .fa-newspaper-o::before{
+        font-size:70px;
+        padding-bottom:10px;
+    }
+
+}
+
+.events_square_block #btn-1505166276140,
+.events_square_block #btn-1505166276141{
+    border: 2px solid #66aace;
+}
+
+.events_square_block .fa-image::before,
+.events_square_block .fa-newspaper-o::before{
+    font-size:60px;
+    padding-bottom:10px;
+}
+
+/*------------------------------------------------------------*/
+/*--------------- BLOCCO PULSANTI LEGACY DEVICES -----------------*/
+
+@media screen and (min-width: 980px ){
+
+    .software_suite_square_block,
+    .site_data_concentrator_square_block,
+    .quality_of_service_square_block,
+    .snmp_devices_square_block,
+    .legacy_devices_square_block {
+        padding: 20px 0 20px 0 !important;
+    }
+
+    .software_suite_square_block #btn-1537976363562,
+    .site_data_concentrator_square_block #btn-1537976274198,
+    .quality_of_service_square_block #btn-1537976180228,
+    .snmp_devices_square_block #btn-1537976086189,
+    .legacy_devices_square_block #btn-1505166276140 {
+        height: 90px;
+        width: 40%;
+        font-size: 14px;
+    }
+
+}
+
+@media screen and (max-width: 768px ){
+
+    .software_suite_square_block,
+    .site_data_concentrator_square_block,
+    .quality_of_service_square_block,
+    .snmp_devices_square_block,
+    .legacy_devices_square_block {
+        padding: 100px 0 50px 0 !important;
+        margin: 0 0 -30px 0 !important;
+    }
+
+    .software_suite_square_block #btn-1537976363562,
+    .site_data_concentrator_square_block #btn-1537976274198,
+    .quality_of_service_square_block #btn-1537976180228,
+    .snmp_devices_square_block #btn-1537976086189,
+    .legacy_devices_square_block #btn-1505166276140 {
+        height: 215px;
+    }
+    .software_suite_square_block .fa-terminal::before,
+    .site_data_concentrator_square_block .fa-database::before,
+    .quality_of_service_square_block .fa-area-chart::before,
+    .snmp_devices_square_block .fa-sliders::before,
+    .legacy_devices_square_block .fa-connectdevelop::before {
+        font-size:70px;
+        padding-bottom:10px;
+    }
+
+}
+
+.software_suite_square_block #btn-1537976363562,
+.site_data_concentrator_square_block #btn-1537976274198,
+.quality_of_service_square_block #btn-1537976180228,
+.snmp_devices_square_block #btn-1537976086189,
+.legacy_devices_square_block #btn-1505166276140 {
+    border: 2px solid #66aace;
+}
+
+.software_suite_square_block .fa-terminal::before,
+.site_data_concentrator_square_block .fa-database::before,
+.quality_of_service_square_block .fa-area-chart::before,
+.snmp_devices_square_block .fa-sliders::before,
+.legacy_devices_square_block .fa-connectdevelop::before {
+    font-size:60px;
+    padding-bottom:10px;
+}
+
+
+/*------------------------------------------------------------*/
+/*--------------- BORDI ARROTONDATI TESTO --------------------*/
+
+.bordo_bianco{
+    border: 2px solid #ffffff;
+}
+
+.bordo_blu{
+    padding: 20px;
+    display: inline-block;
+    border-radius: 30px;
+    text-align: left;
+    border: 2px solid #66aace;
+}
+
+/*------------------------------------------------------------*/
+/*--------------- BLOCCO PRODUCTS HOMEPAGE -------------------*/
+
+/*Rimozione tasto Show All Plugin Minitek*/
+#mnwall_container_1 .mnwall_iso_buttons a.mnw_filter_active {
+    display: none;
+}
+
+.mnwall-columns .mnwall-item-inner{
+    padding: 0px;
+}
+
+.mnwall-item-img{
+    max-height: 220px;
+}
+
+h3.mnwall-title{
+    line-height: 24px;
+    margin: 0;
+    padding: 6px 0px 6px;
+    text-align: center;
+    font-weight: 300;
+}
+
+h3.mnwall-title a, h3.mnwall-title span{
+    font-size: 15px !important;
+}
+
+.mnwall-hover-box-content, .mnwall-hover-box-content span{
+    display: none;
+}
+
+.mnwall_filters_sortings{
+    display: none;
+}
+
+/*------------------------------------------------------------*/
+/*------------------- BLOCCO EVENTI HOMEPAGE -------------------*/
+
+.sp-page-builder .page-content #events-wrapper{
+    background-position: 20px -300px !important;
+}
+
+.sppb-col-sm-4{
+    border-radius: 30px;
+    border: 2px solid #66aace;
+    text-align: center;
+    background: #fff;
+    /*margin-right: 15px;*/
+    transition: all 700ms ease 0s;
+    letter-spacing: 1px;
+}
+.sppb-col-sm-4 h3 a{
+    color: rgb(243, 160, 34) !important;
+    text-transform: uppercase !important;
+    font-weight: 600 !important;
+    pointer-events: none;
+}
+
+.sppb-col-sm-4 p{
+    font-weight: 600 !important;
+}
+
+.sppb-col-sm-4:hover{
+    transition: all 700ms ease 0s;
+    border-radius: 0px;
+}
+
+/*------------------------------------------------------------*/
+/*------------------- FORM CONTACT US ------------------------*/
+
+div#fox-container-c583 .btn, div#fox-container-c583 .btn span {
+    font-weight: 400;
+}
+
+div#fox-container-c583 .fox-form select, div#fox-container-c583 .fox-form textarea, div#fox-container-c583 .fox-form input[type="text"], div#fox-container-c583 .fox-form input[type="email"] {
+    font-weight: 400;
+}
+
+/*------------------------------------------------------------*/
+/*----------------------- TIMELINE ---------------------------*/
+@media screen and (max-width: 768px ){
+    .jux-tl-info .arrow{
+        display: none;
+    }
+}
+
+.bordo_timeline{
+    width: 100%;
+}
+
+.jux-tl-control{
+    background: #ffffff !important;
+}
+
+.jux-tl-item{
+    margin-bottom: 10px !important;
+}
+
+.jux-tl-time{
+    color: #222 !important;
+    font-size: 20px !important;
+}
+
+.jux-tl-info{
+    background: #ffffff !important;
+    border-radius: 7px !important;
+    border: 2px solid #66aace !important;
+    padding: 0px !important;
+}
+
+.jux-tl-title{
+    display: none;
+}
+
+.jux-tl-desc{
+    text-align: center;
+    font-weight: 300 !important;
+    padding: 17px 40px !important;
+    color: #222 !important;
+    transition: all 400ms ease 0s;
+}
+
+.jux-tl-desc:hover{
+    background: #66aace !important;
+    color: #fff !important;
+    transition: all 400ms ease 0s;
+}
+
+/*------------------------------------------------------------*/
+/*----------------------- B/OSS SYSTEM -----------------------*/
+
+.tab-boss{
+    width: 100%;
+}
+
+.col1-boss{
+    width: 64%;
+    padding: 0px 60px 0px 0px;
+}
+
+.col2-boss{
+    width: 35%;
+}
+
+/*------------------------------------------------------------*/
+/*-------------------- TELL US YOUR NEEDS --------------------*/
+
+#section-id-1505670188710{
+    padding: 15px 0 15px 0 !important;
+}
+
+
+.itemid-437 #sp-ask{
+    background: #66aace !important;
+}
+
+.sp-page-builder .page-content #section-id-1535959873312{
+    padding: 0px !important;
+}
+
+/*------------------------------------------------------------*/
+/*-------------------- SCROLL TO TOP --------------------*/
+
+.sp-module{
+    margin-top: 0px !important;
+}
+
+/*------------------------------------------------------------*/
+/*--------------------------- COMPANY ------------------------*/
+
+#sppb-addon-1481090216 .sppb-icon .sppb-icon-container > i {
+    width: 140px !important;
+    height: 80px !important;
+    padding: 9px !important;
+}
+
+#sppb-addon-1481090210 .sppb-icon .sppb-icon-container > i {
+    width: 140px !important;
+    height: 80px !important;
+    padding: 9px !important;
+}
+
+#sppb-addon-1481090207 .sppb-icon .sppb-icon-container > i {
+    width: 140px !important;
+    height: 80px !important;
+    padding: 9px !important;
+}
+
+/*------------------------------------------------------------*/
+
+/*Popup Image*/
+#jcemediabox-popup-caption h4, #jcemediabox-popup-caption p {
+    color: #000;
+    font-weight: 400;
+}
+#jcemediabox-popup-closelink {
+    padding-right: 56px;
+}
+
+
+/* HOME PAGE */
+
+.itemid-437 #sp-back-to{
+    display: none;
+}
+
+.itemid-437 #sp-button{
+    display: none;
 }
